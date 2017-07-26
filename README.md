@@ -9,4 +9,4 @@
 	<span style="color:#003366;">显示设置好横坐标对应的数据，左右滑动查看其他数据</span>
 </p>
 <p>
-![Image text](https://github.com/AndroidCloud/SlideLineChartView/blob/master/DemoImg/GIF.gif)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Image text](https://github.com/AndroidCloud/SlideLineChartView/blob/master/DemoImg/GIF.gif)
