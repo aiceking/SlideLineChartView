@@ -1,4 +1,4 @@
-# SlideLineChartView  
+# SlideLineChartView  （可滑动的柱线图）
 <p>
 	<span style="color:#003366;">数据实现按照横坐标自动排序</span>
 </p>
